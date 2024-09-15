@@ -1,0 +1,37 @@
+{
+    "invoiceNumber": "INV-000256",
+    "invoiceDate": "2023-08-01",
+    "currencySymbol": "$",
+    "customer": {
+      "company": "Client company",
+      "number": "123456",
+      "vat": "987654",
+      "address1": "2252 Cost Avenue",
+      "address2": "Maryland",
+      "city": "Greenbelt",
+      "country": "United States",
+      "postCode": "20770"
+    },
+    "products": [
+      {
+        "name": "Development services",
+        "price": 1250.00,
+        "quantity": 1
+      },
+      {
+        "name": "Organic box",
+        "price": 1.50,
+        "quantity": 25
+      },
+      {
+        "name": "Shipping",
+        "price": 4.99,
+        "quantity": 1
+      }
+    ],
+    "vatPercentage": 20,
+    "vatAmount": 258.50,
+    "total": 1292.49,
+    "invoiceTotal": 1550.99,
+    "dueDate": "2023-08-08"
+  }
